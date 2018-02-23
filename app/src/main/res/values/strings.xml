@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookstoreApp</string>
+    <string name="bookstore_name">Oxford Antique Bookstore</string>
+    <string name="Address">5 Little Clarendon St</string>
+    <string name="zip_code">OX1 3BJ Oxford</string>
+    <string name="email">oab@gmail.com</string>
+    <string name="opening_mon_fri">Mon-Fri 9-17</string>
+    <string name="opening_sat">Sat 10-14</string>
+    <string name="opening_hours">Opening hours</string>
+</resources>
